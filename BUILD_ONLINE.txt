@@ -1,0 +1,6 @@
+BUILD ONLINE
+
+O GitHub Actions usa Java 17 e Gradle 8.11.1 para compilar o APK.
+O projeto usa Android Gradle Plugin 8.9.3 e compileSdk 35.
+
+Não é necessário instalar Android Studio no computador para gerar o APK pelo workflow.
